@@ -28,7 +28,7 @@ dashboard-beneficios/
 │
 ├── powerbi/
 │   ├── dashboard_beneficios.pbix           # Arquivo do dashboard criado no Power BI
-│   └── painel-powerbi.png                  # Imagem de prévia do painel final
+│   └── painel_powerbi.png                  # Imagem de prévia do painel final
 │
 ├── python/ 
 |   ├── graficos/                           # Gráficos gerados pela análise exploratória
@@ -60,7 +60,7 @@ dashboard-beneficios/
 
 ## 🖼️ Prévia do Dashboard
 
-![Prévia do Dashboard no Power BI](powerbi/painel-powerbi.png)
+![Prévia do Dashboard no Power BI](powerbi/painel_powerbi.png)
 
 ---
 
