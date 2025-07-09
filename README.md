@@ -43,9 +43,9 @@ dashboard-beneficios/
 ---
     
 ## 🧰 Ferramentas Utilizadas
-✅ **Power BI Desktop** — para visualizações interativas, filtros dinâmicos e cálculos DAX.
-✅ **Python (Pandas, Seaborn, Matplotlib)** — para anonimização, tratamento e análise exploratória dos dados.
-✅ **Jupyter Notebook** — ambiente interativo para execução da análise em Python.
+✅ **Power BI Desktop** — para visualizações interativas, filtros dinâmicos e cálculos DAX.  
+✅ **Python (Pandas, Seaborn, Matplotlib)** — para anonimização, tratamento e análise exploratória dos dados.  
+✅ **Jupyter Notebook** — ambiente interativo para execução da análise em Python.  
 
 ---
 
@@ -59,7 +59,6 @@ dashboard-beneficios/
 ---
 
 ## 🖼️ Prévia do Dashboard
-*(Substitua o texto abaixo pela imagem do seu dashboard finalizado)*
 
 ![Prévia do Dashboard no Power BI](powerbi/painel-powerbi.png)
 
@@ -121,4 +120,22 @@ A etapa em Python foi responsável pela preparação e análise inicial dos dado
 📎 Notebooks e scripts: `python/notebooks/`  
 📜 Dependências: `python/requirements.txt`
 
+---
 
+## 👩‍💻 Sobre a Autora
+
+Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/alinedapaz/)  
+📧 Email para parcerias: aline.santospaz@gmail.com  
+🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
+
+---
+
+⭐ Se você gostou, deixe uma estrela no repositório!
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da **[Licença MIT](https://opensource.org/licenses/MIT)**.  
+Sinta-se à vontade para usar, modificar e compartilhar com os devidos créditos.
