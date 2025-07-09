@@ -1,6 +1,6 @@
-![Evolução mensal de adesão aos benefícios](../graficos/evolucao_mensal_beneficios.png)
-
 ### O Ritmo dos Nossos Benefícios! 📅 
+
+![Evolução mensal de adesão aos benefícios](../graficos/evolucao_mensal_beneficios.png)
 
 Este gráfico revela um padrão sazonal claro, mostrando os momentos exatos em que a adesão aos benefícios esquenta na empresa. Entender esse ritmo é uma vantagem estratégica!
 
