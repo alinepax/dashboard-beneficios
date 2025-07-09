@@ -117,7 +117,7 @@ Abaixo estão os 3 principais insights extraídos a partir da análise explorat�
 
 ### 1. O Ranking Geral: Bem-Estar é Prioridade
 
-![Ranking de Benefícios](python/img/beneficios_mais_utilizados.png)
+![Ranking de Benefícios](python/graficos/beneficios_mais_utilizados.png)
 
 A análise dos benefícios mais utilizados revelou uma forte tendência: além do essencial (Vale Refeição), os benefícios de bem-estar como **Auxílio Psicólogo** e **Auxílio Academia** estão entre os mais populares, mostrando que a saúde mental e física é uma prioridade clara para os colaboradores.
 
@@ -125,7 +125,7 @@ A análise dos benefícios mais utilizados revelou uma forte tendência: além d
 
 ### 2. O Mapa de Preferências: Cada Departamento com seu Perfil
 
-![Heatmap de Uso por Departamento](python/img/uso_beneficios_departamento.png)
+![Heatmap de Uso por Departamento](python/graficos/uso_beneficios_departamento.png)
 
 O mapa de calor demonstrou que o engajamento com os benefícios varia significativamente entre os departamentos. O time de **TI**, por exemplo, lidera a adesão ao Auxílio Academia, enquanto a equipe **Financeira** mostra uma afinidade maior com o Auxílio Psicólogo. Isso permite a criação de campanhas de comunicação direcionadas.
 
@@ -133,7 +133,7 @@ O mapa de calor demonstrou que o engajamento com os benefícios varia significat
 
 ### 3. A Análise Temporal: O Ritmo do Negócio
 
-![Evolução Mensal de Adesões](python/img/evolucao_mensal_beneficios.png)
+![Evolução Mensal de Adesões](python/graficos/evolucao_mensal_beneficios.png)
 
 O gráfico de evolução de adesões ao longo do tempo mostrou uma clara sazonalidade, com picos em **Janeiro e Julho**. Este padrão está fortemente correlacionado aos principais ciclos de contratação da empresa, indicando os melhores momentos para reforçar a comunicação sobre o programa de benefícios.
 
