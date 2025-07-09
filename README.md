@@ -154,6 +154,8 @@ E abaixo estão os principais pontos analisados no projeto. Cada item leva a uma
 
 - [Sazonalidade na Adesão aos Benefícios](python/insights/evolucao_mensal_beneficios.md): Identifique os picos de adesão e sua conexão com os ciclos de contratação.
 
+---
+
 **📜 Para instalar as dependências, utilize o `requirements.txt`:**
 1. Acesse a pasta `python/`
 2. Instale as dependências:
