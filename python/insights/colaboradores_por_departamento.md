@@ -1,3 +1,5 @@
+![BQuantidade de colaboradores por departamento](../graficos/colaboradores_por_departamento.png)
+
 ### Um Olhar Rápido na Nossa Equipe! 👀
 
 Analisando nosso gráfico, temos um insight super legal sobre a distribuição dos times:
