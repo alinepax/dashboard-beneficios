@@ -1,6 +1,6 @@
-![Uso de Benefícios por Departamento](../graficos/uso_beneficios_departamento.png)
-
 ### Cada Time com seu Hábito! 🔬
+
+![Uso de Benefícios por Departamento](../graficos/uso_beneficios_departamento.png)
 
 O mapa de calor revelou as preferências únicas de cada departamento, mostrando que o bem-estar tem sabores diferentes pela empresa!
 
