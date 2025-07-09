@@ -1,4 +1,4 @@
-![Benefícios Mais Utilizados](../img/beneficios_mais_utilizados.png)
+![Benefícios Mais Utilizados](../graficos/beneficios_mais_utilizados.png)
 
 ### Nossos Benefícios em Ação! 🚀
 
