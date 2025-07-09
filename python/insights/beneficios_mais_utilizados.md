@@ -1,3 +1,5 @@
+![Benefícios Mais Utilizados](python/insights/beneficios_mais_utilizados.md)
+
 ### Nossos Benefícios em Ação! 🚀
 
 Este gráfico mostra quais benefícios são os mais queridinhos da equipe, e os resultados são muito interessantes!
