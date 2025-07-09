@@ -1,4 +1,4 @@
-![Benefícios Mais Utilizados](python/insights/beneficios_mais_utilizados.md)
+![Benefícios Mais Utilizados](python/graficos/beneficios_mais_utilizados.png)
 
 ### Nossos Benefícios em Ação! 🚀
 
