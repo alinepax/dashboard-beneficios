@@ -109,6 +109,36 @@ A etapa em Python foi responsável pela preparação e análise inicial dos dado
 - 📍 Distribuição de colaboradores por departamento.
 - 📊 Geração dos gráficos base que inspiraram o dashboard final.
 
+## 📌 Índice de Insights (Extraídos da Análise Exploratória no Python)
+
+Abaixo estão os 3 principais insights extraídos a partir da análise exploratória com Python, que serviram como base para a construção do dashboard interativo em Power BI.
+
+---
+
+### 1. O Ranking Geral: Bem-Estar é Prioridade
+
+![Ranking de Benefícios](python/img/beneficios_mais_utilizados.png)
+
+A análise dos benefícios mais utilizados revelou uma forte tendência: além do essencial (Vale Refeição), os benefícios de bem-estar como **Auxílio Psicólogo** e **Auxílio Academia** estão entre os mais populares, mostrando que a saúde mental e física é uma prioridade clara para os colaboradores.
+
+---
+
+### 2. O Mapa de Preferências: Cada Departamento com seu Perfil
+
+![Heatmap de Uso por Departamento](python/img/uso_beneficios_departamento.png)
+
+O mapa de calor demonstrou que o engajamento com os benefícios varia significativamente entre os departamentos. O time de **TI**, por exemplo, lidera a adesão ao Auxílio Academia, enquanto a equipe **Financeira** mostra uma afinidade maior com o Auxílio Psicólogo. Isso permite a criação de campanhas de comunicação direcionadas.
+
+---
+
+### 3. A Análise Temporal: O Ritmo do Negócio
+
+![Evolução Mensal de Adesões](python/img/evolucao_mensal_beneficios.png)
+
+O gráfico de evolução de adesões ao longo do tempo mostrou uma clara sazonalidade, com picos em **Janeiro e Julho**. Este padrão está fortemente correlacionado aos principais ciclos de contratação da empresa, indicando os melhores momentos para reforçar a comunicação sobre o programa de benefícios.
+
+---
+
 **📜 Para instalar as dependências, utilize o `requirements.txt`:**
 1. Acesse a pasta `python/`
 2. Instale as dependências:
