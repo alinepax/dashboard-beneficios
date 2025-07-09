@@ -1,3 +1,5 @@
+![Uso de Benefícios por Tempo de Empresa](../graficos/uso_beneficios_tempo_empresa.png)
+
 ### A Jornada do Colaborador e Seus Benefícios! 🗺️
 
 Este mapa mostra que a relação do time com os benefícios se transforma ao longo do tempo na empresa. Cada fase tem uma prioridade diferente!
