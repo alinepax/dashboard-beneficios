@@ -1,6 +1,6 @@
-![Uso de Benefícios por Faixa Etária](../graficos/uso_beneficios_idade.png)
-
 ### O Mapa de Gerações e Benefícios! 🗺️
+
+![Uso de Benefícios por Faixa Etária](../graficos/uso_beneficios_idade.png)
 
 Cada faixa etária na empresa tem uma história diferente para contar através do uso de benefícios. Entender essas histórias é a chave para um programa de bem-estar que realmente conecte com todos!
 
