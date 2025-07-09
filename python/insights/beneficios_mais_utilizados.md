@@ -1,6 +1,6 @@
-![Benefícios Mais Utilizados](../graficos/beneficios_mais_utilizados.png)
-
 ### Nossos Benefícios em Ação! 🚀
+
+![Benefícios Mais Utilizados](../graficos/beneficios_mais_utilizados.png)
 
 Este gráfico mostra quais benefícios são os mais queridinhos da equipe, e os resultados são muito interessantes!
 
