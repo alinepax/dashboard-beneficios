@@ -1,0 +1,101 @@
+ID_Colaborador,Departamento,Tempo_Empresa,Faixa_Etaria
+1,TI,> 5 anos,46+
+2,TI,< 1 ano,26-35
+3,TI,1-2 anos,26-35
+4,Comercial,2-5 anos,18-25
+5,Administrativo,1-2 anos,36-45
+6,Comercial,> 5 anos,46+
+7,TI,< 1 ano,36-45
+8,Administrativo,1-2 anos,36-45
+9,Financeiro,1-2 anos,18-25
+10,Comercial,2-5 anos,36-45
+11,Comercial,1-2 anos,36-45
+12,Comercial,< 1 ano,46+
+13,RH,< 1 ano,26-35
+14,TI,1-2 anos,46+
+15,Financeiro,2-5 anos,46+
+16,Financeiro,2-5 anos,36-45
+17,Financeiro,> 5 anos,36-45
+18,TI,< 1 ano,46+
+19,Administrativo,> 5 anos,46+
+20,Comercial,2-5 anos,36-45
+21,TI,> 5 anos,26-35
+22,Comercial,2-5 anos,26-35
+23,TI,> 5 anos,46+
+24,Comercial,> 5 anos,26-35
+25,TI,< 1 ano,46+
+26,Administrativo,< 1 ano,18-25
+27,Financeiro,> 5 anos,36-45
+28,Comercial,2-5 anos,46+
+29,TI,2-5 anos,46+
+30,Administrativo,< 1 ano,46+
+31,Administrativo,< 1 ano,26-35
+32,Financeiro,1-2 anos,46+
+33,TI,< 1 ano,18-25
+34,Comercial,2-5 anos,26-35
+35,RH,< 1 ano,36-45
+36,Administrativo,1-2 anos,18-25
+37,Administrativo,> 5 anos,46+
+38,Financeiro,> 5 anos,18-25
+39,TI,2-5 anos,46+
+40,RH,1-2 anos,18-25
+41,RH,> 5 anos,26-35
+42,RH,> 5 anos,46+
+43,TI,< 1 ano,26-35
+44,Comercial,> 5 anos,18-25
+45,Administrativo,2-5 anos,46+
+46,TI,> 5 anos,36-45
+47,RH,2-5 anos,36-45
+48,Administrativo,2-5 anos,46+
+49,Administrativo,< 1 ano,18-25
+50,RH,1-2 anos,36-45
+51,RH,2-5 anos,46+
+52,Administrativo,> 5 anos,36-45
+53,Financeiro,> 5 anos,46+
+54,Administrativo,2-5 anos,18-25
+55,Comercial,> 5 anos,18-25
+56,Comercial,< 1 ano,26-35
+57,Financeiro,> 5 anos,36-45
+58,TI,< 1 ano,26-35
+59,Administrativo,2-5 anos,18-25
+60,Comercial,2-5 anos,46+
+61,Administrativo,2-5 anos,18-25
+62,Financeiro,< 1 ano,18-25
+63,RH,> 5 anos,46+
+64,Financeiro,< 1 ano,26-35
+65,Financeiro,> 5 anos,36-45
+66,Financeiro,> 5 anos,18-25
+67,Comercial,< 1 ano,18-25
+68,Financeiro,1-2 anos,36-45
+69,RH,2-5 anos,18-25
+70,RH,> 5 anos,36-45
+71,RH,> 5 anos,36-45
+72,TI,< 1 ano,36-45
+73,Financeiro,1-2 anos,46+
+74,RH,2-5 anos,26-35
+75,TI,1-2 anos,26-35
+76,Financeiro,2-5 anos,46+
+77,Financeiro,> 5 anos,26-35
+78,Administrativo,> 5 anos,26-35
+79,Financeiro,< 1 ano,26-35
+80,Administrativo,< 1 ano,18-25
+81,Comercial,1-2 anos,46+
+82,Comercial,1-2 anos,26-35
+83,TI,2-5 anos,46+
+84,Administrativo,< 1 ano,26-35
+85,Comercial,> 5 anos,26-35
+86,Comercial,< 1 ano,46+
+87,Comercial,1-2 anos,36-45
+88,Financeiro,< 1 ano,46+
+89,Administrativo,> 5 anos,36-45
+90,Comercial,< 1 ano,18-25
+91,Administrativo,1-2 anos,46+
+92,RH,> 5 anos,36-45
+93,RH,2-5 anos,26-35
+94,Financeiro,2-5 anos,18-25
+95,RH,> 5 anos,46+
+96,TI,> 5 anos,36-45
+97,Administrativo,> 5 anos,36-45
+98,Comercial,1-2 anos,46+
+99,TI,> 5 anos,36-45
+100,TI,1-2 anos,46+
