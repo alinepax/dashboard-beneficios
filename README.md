@@ -92,7 +92,7 @@ O painel desenvolvido no Power BI tem como foco a visualização clara e interat
 - 🔘 **Segmentações** por Departamento, Faixa Etária e Tempo de Empresa.
 - 🔄 **Interações cruzadas** entre todos os gráficos e KPIs.
 
-**📎 Arquivo:** `powerbi/Dashboard de Benefícios.pbix`
+**📎 Arquivo:** `powerbi/dashboard_beneficios.pbix`
 
 ---
 
