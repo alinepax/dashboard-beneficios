@@ -32,6 +32,7 @@ dashboard-beneficios/
 │
 ├── python/ 
 |   ├── graficos/                           # Gráficos gerados pela análise exploratória
+|   ├── insights/                           # Insights retirados da análise exploratória
 |   ├── notebooks/ 
 │   |   ├── analise_exploratoria.ipynb      # Notebook com toda a análise exploratória
 │   |   └── tratamento_dados.ipynb          # Notebook com dados tratados
@@ -138,6 +139,20 @@ O mapa de calor demonstrou que o engajamento com os benefícios varia significat
 O gráfico de evolução de adesões ao longo do tempo mostrou uma clara sazonalidade, com picos em **Janeiro e Julho**. Este padrão está fortemente correlacionado aos principais ciclos de contratação da empresa, indicando os melhores momentos para reforçar a comunicação sobre o programa de benefícios.
 
 ---
+
+E abaixo estão os principais pontos analisados no projeto. Cada item leva a uma página com a explicação detalhada, o gráfico correspondente e a conclusão extraída.
+
+- [Distribuição de Colaboradores por Departamento](python/insights/colaboradores_por_departamento.md): Entenda a estrutura da empresa e o tamanho de cada time.
+
+- [Ranking de Popularidade dos Benefícios](python/insights/beneficios_mais_utilizados.md): Descubra quais benefícios são os mais valorizados e a forte tendência de bem-estar.
+
+- [Análise de Uso por Departamento](python/insights/uso_beneficios_departamento.md): Veja como diferentes departamentos têm perfis de uso distintos para cada benefício.
+
+- [Análise de Uso por Faixa Etária](python/insights/uso_beneficios_idade.md): Explore os padrões de engajamento através das diferentes gerações de colaboradores.
+
+- [Análise por Tempo de Empresa](python/insights/uso_beneficios_tempo_empresa.md): Descubra como a relação com os benefícios muda ao longo da jornada do colaborador.
+
+- [Sazonalidade na Adesão aos Benefícios](python/insights/evolucao_mensal_beneficios.md): Identifique os picos de adesão e sua conexão com os ciclos de contratação.
 
 **📜 Para instalar as dependências, utilize o `requirements.txt`:**
 1. Acesse a pasta `python/`
