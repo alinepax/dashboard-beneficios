@@ -36,6 +36,7 @@ dashboard-beneficios/
 |   ├── notebooks/ 
 │   |   ├── analise_exploratoria.ipynb      # Notebook com toda a análise exploratória
 │   |   └── tratamento_dados.ipynb          # Notebook com dados tratados
+|   |
 |   └── requirements.txt                    # Dependências para rodar o notebook
 |
 └── README.md                               # Documentação completa do projeto
