@@ -21,7 +21,7 @@ Este é um projeto do meu portfólio como profissional em transição para a ár
 
 ```
 dashboard-beneficios/
-├── 📂 data/                                # Arquivos de dados brutos e tratados para o projeto
+├── 📂 data/                                
 |   ├── colaboradores_anonimizados.csv      # Dados anonimizados e prontos para a análise
 |   ├── evolucao_mensal_beneficios.csv      # Dados mensais extraídos do Python
 │   └── uso_beneficios_anonimizados.csv     # (e outros arquivos de dados tratados)
